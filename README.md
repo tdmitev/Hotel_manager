@@ -33,3 +33,18 @@ created folder when opening the program at that date. The file will be exported
 and saved automatically with the name of the meal, according to what time is 
 exported. Seccond option is to export the file in another directory with other 
 name of the PDF file. 
+
+## Step 1
+ 
+<div style="display: flex; align-items: center;">
+   <p>Choosing a default directory</p>
+  <img src="images/1%20choose%20directory.png" alt="1" width="400">
+      <p></p>
+  <img src="images/2%20Set%20defauld%20directory.png" alt="2" width="400" style="margin: 0 50px;">
+  <img src="images/3%20New%20directory%20SET%20Message.png" alt="3" width="300">
+</div>
+
+
+
+
+
