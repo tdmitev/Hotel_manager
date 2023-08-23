@@ -37,14 +37,24 @@ name of the PDF file.
 ## Step 1
  
 <div style="display: flex; align-items: center;">
-   <p>Choosing a default directory</p>
+   <h3>1. Choosing a default directory in case opening for the first time</h3>
   <img src="images/1%20choose%20directory.png" alt="1" width="400">
-      <p></p>
+      <p> </p> 
   <img src="images/2%20Set%20defauld%20directory.png" alt="2" width="400" style="margin: 0 50px;">
-  <img src="images/3%20New%20directory%20SET%20Message.png" alt="3" width="300">
+ <p> </p> 
+      <h4> 1.1 After successful setting up the default directory, folder is created</h4> 
+ a) <img src="images/3%20New%20directory%20SET%20Message.png" alt="3" width="310">
+ b) <img src="images/4%20New%20file%20created.png" alt="4" width="300">
 </div>
 
+## Step 2
 
-
+<div style="display: flex; align-items: center;">
+    <h3>2. The main window of the program before importing CSV file with data of the guests</h3>
+  <img src="images/5%20The%20main%20app%20window.png" alt="5" width="600">
+        <h4> 2.1 Importing the CSV file, exported from the hotel software</h4> 
+   <img src="images/6%20Choose%20CSV%20file.png" alt="2" width="400" style="margin: 0 50px;">
+   <img src="images/6.1%20Chosen%20CSV%20message.png" alt="3" width="400">
+</div>
 
 
